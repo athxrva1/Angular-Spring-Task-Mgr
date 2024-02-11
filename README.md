@@ -19,7 +19,7 @@ Follow these steps to run the Spring Boot & Angular application:
 
 First, clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/tojoos/Todo-list.git
+git clone https://github.com/athxrva1/Angular-Spring-Task-Mgr
 ```
 
 ## 2. **Backend Setup**
